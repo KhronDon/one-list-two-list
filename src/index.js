@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 import App from './components/App'
 
-import './styles/screen.scss'
+import './styles/screen.sass'
 
 const root = document.getElementById('root')
 
